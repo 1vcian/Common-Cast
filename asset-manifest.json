@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://1vcian.github.io/Common-Cast/static/css/main.29a9a29f.css",
-    "main.js": "https://1vcian.github.io/Common-Cast/static/js/main.a778a8ac.js",
+    "main.js": "https://1vcian.github.io/Common-Cast/static/js/main.a11b5257.js",
     "index.html": "https://1vcian.github.io/Common-Cast/index.html",
     "main.29a9a29f.css.map": "https://1vcian.github.io/Common-Cast/static/css/main.29a9a29f.css.map",
-    "main.a778a8ac.js.map": "https://1vcian.github.io/Common-Cast/static/js/main.a778a8ac.js.map"
+    "main.a11b5257.js.map": "https://1vcian.github.io/Common-Cast/static/js/main.a11b5257.js.map"
   },
   "entrypoints": [
     "static/css/main.29a9a29f.css",
-    "static/js/main.a778a8ac.js"
+    "static/js/main.a11b5257.js"
   ]
 }
