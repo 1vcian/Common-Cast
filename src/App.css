@@ -1,0 +1,54 @@
+.App {
+  font-family: 'Arial', sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card.selected {
+  border: 3px solid #007bff;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+}
+
+.infoAct {
+  font-size: 0.9rem;
+}
+
+.movie-item {
+  width: 150px;
+  height: auto;
+  margin: 5px;
+}
+
+.movie-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.movie-item h5 {
+  font-size: 0.9rem;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.movie-item p {
+  font-size: 0.8rem;
+  margin: 2px 0;
+  text-align: center;
+}
